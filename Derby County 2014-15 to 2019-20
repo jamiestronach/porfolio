@@ -1,0 +1,300 @@
+Date,Home Side,Away Side,Venue,KO Time,Gameweek,Attendance,Home Score,Away Score
+2019-07-10,Sarasota Metropolis,Derby County,"Bradenton, Florida",23:00 BST,Friendly,,0.0,2.0
+2019-07-14,Bristol City,Derby County,"Bradenton, Florida",14:30 BST,Friendly,,1.0,2.0
+2019-07-28,Rangers,Derby County,Glasgow,15:00 BST,Friendly,19843.0,1.0,0.0
+2019-08-05,Huddersfield Town,Derby County,Huddersfield,19:45 BST,1,22596.0,1.0,2.0
+2019-08-10,Derby County,Swansea City,Derby,15:00 BST,2,27337.0,0.0,0.0
+2019-08-17,Stoke City,Derby County,Stoke-on-Trent,15:00 BST,3,36523863.0,2.0,2.0
+2019-08-20,Derby County,Bristol City,Derby,19:45 BST,4,25546.0,1.0,2.0
+2019-08-24,Derby County,West Bromwich Albion,Derby,12:30 BST,5,26718.0,1.0,1.0
+2019-08-31,Brentford,Derby County,Brentford,15:00 BST,6,11055.0,3.0,0.0
+2019-09-13,Derby County,Cardiff City,Derby,19:45 BST,7,25873.0,1.0,1.0
+2019-09-21,Leeds United,Derby County,Leeds,12:30 BST,8,34741.0,1.0,1.0
+2019-09-28,Derby County,Birmingham City,Derby,15:00 BST,9,28454.0,3.0,2.0
+2019-10-02,Barnsley,Derby County,Barnsley,19:45 BST,10,13634.0,2.0,2.0
+2019-10-05,Derby County,Luton Town,Derby,15:00 BST,11,27944.0,2.0,0.0
+2019-10-19,Charlton Athletic,Derby County,Charlton,15:00 BST,12,19408.0,3.0,0.0
+2019-10-23,Derby County,Wigan Athletic,Derby,19:45 BST,13,24697.0,1.0,0.0
+2019-10-26,Hull City,Derby County,Kingston upon Hull,15:00 BST,14,16326.0,2.0,0.0
+2019-11-02,Derby County,Middlesbrough,Derby,15:00 GMT,15,26293.0,2.0,0.0
+2019-11-09,Nottingham Forest,Derby County,West Bridgford,12:30 GMT,16,,1.0,0.0
+2019-11-23,Derby County,Preston North End,Derby,15:00 GMT,17,27417.0,1.0,0.0
+2019-11-26,Fulham,Derby County,Fulham,19:45 GMT,18,16856.0,3.0,0.0
+2019-11-30,Derby County,Queens Park Rangers,Derby,15:00 GMT,19,26289.0,1.0,1.0
+2019-12-07,Blackburn Rovers,Derby County,Blackburn,15:00 GMT,20,12800.0,1.0,0.0
+2019-12-11,Derby County,Sheffield Wednesday,Derby,19:45 GMT,21,26203.0,1.0,1.0
+2019-12-14,Derby County,Millwall,Derby,15:00 GMT,22,26272.0,0.0,1.0
+2019-12-21,Reading,Derby County,Reading,15:00 GMT,23,14831.0,3.0,0.0
+2019-12-26,Wigan Athletic,Derby County,Wigan,15:00 GMT,24,14211.0,1.0,1.0
+2019-12-30,Derby County,Charlton Athletic,Derby,19:45 GMT,25,26058.0,2.0,1.0
+2020-01-02,Derby County,Barnsley,Derby,19:45 GMT,26,27782.0,2.0,1.0
+2020-01-11,Middlesbrough,Derby County,Middlesbrough,15:00 GMT,27,19706.0,2.0,2.0
+2020-01-18,Derby County,Hull City,Derby,15:00 GMT,28,27412.0,1.0,0.0
+2020-01-28,Luton Town,Derby County,Luton,19:45 GMT,29,10057.0,3.0,2.0
+2020-01-31,Derby County,Stoke City,Derby,19:45 GMT,30,27984.0,4.0,0.0
+2020-02-08,Swansea City,Derby County,Swansea,15:00 GMT,31,16230.0,2.0,3.0
+2020-02-12,Bristol City,Derby County,Ashton Gate,19:45 GMT,32,20368.0,3.0,2.0
+2020-02-15,Derby County,Huddersfield Town,Derby,15:00 GMT,33,27502.0,1.0,1.0
+2020-02-21,Derby County,Fulham,Derby,19:45 GMT,34,25442.0,1.0,1.0
+2020-02-25,Queens Park Rangers,Derby County,White City,19:45 GMT,35,11669.0,2.0,1.0
+2020-02-29,Sheffield Wednesday,Derby County,Owlerton,15:00 GMT,36,25148.0,1.0,3.0
+2020-03-08,Derby County,Blackburn Rovers,Derby,15:00 GMT,37,26590.0,3.0,0.0
+2020-01-05,Crystal Palace,Derby County,"Selhurst, London",14:01 GMT,,15507.0,0.0,1.0
+2020-01-24,Northampton Town,Derby County,Northampton,20:00 GMT,,7798.0,0.0,0.0
+2020-02-04,Derby County,Northampton Town,Derby,19:45 GMT,,15860.0,4.0,2.0
+2020-03-05,Derby County,Manchester United,Derby,19:45 GMT,,31379.0,0.0,3.0
+2019-08-13,Scunthorpe United,Derby County,Scunthorpe,19:45 BST,First round,3679.0,0.0,1.0
+2019-08-27,Nottingham Forest,Derby County,West Bridgford,19:45 BST,Second round,26971.0,3.0,0.0
+2018-08-03,Reading,Derby County,Reading,20:00 BST,1,16923.0,1.0,2.0
+2018-08-11,Derby County,Leeds United,Derby,17:30 BST,2,27311.0,1.0,4.0
+2018-08-18,Millwall,Derby County,"Bermondsey, London",15:00 BST,3,13557.0,2.0,1.0
+2018-08-21,Derby County,Ipswich Town,Derby,19:45 BST,4,24362.0,2.0,0.0
+2018-08-25,Derby County,Preston North End,Derby,15:00 BST,5,25257.0,2.0,0.0
+2018-09-01,Hull City,Derby County,Kingston upon Hull,15:00 BST,6,12285.0,1.0,2.0
+2018-09-15,Rotherham United,Derby County,Rotherham,15:00 BST,7,10707.0,1.0,0.0
+2018-09-18,Derby County,Blackburn Rovers,Derby,19:45 BST,8,23580.0,0.0,0.0
+2018-09-22,Derby County,Brentford,Derby,15:00 BST,9,25110.0,3.0,1.0
+2018-09-29,Bolton Wanderers,Derby County,Bolton,15:00 BST,10,14096.0,1.0,0.0
+2018-10-03,Derby County,Norwich City,Derby,19:45 BST,11,24236.0,1.0,1.0
+2018-10-06,Queens Park Rangers,Derby County,Shepherd's Bush,15:00 BST,12,14727.0,1.0,1.0
+2018-10-20,Derby County,Sheffield United,Derby,17:30 BST,13,27927.0,2.0,1.0
+2018-10-24,West Bromwich Albion,Derby County,West Bromwich,20:00 BST,14,22848.0,1.0,4.0
+2018-10-27,Middlesbrough,Derby County,Middlesbrough,12:30 BST,15,22907.0,1.0,1.0
+2018-11-03,Derby County,Birmingham City,Derby,15:00 GMT,16,28114.0,3.0,1.0
+2018-11-10,Derby County,Aston Villa,Derby,15:00 GMT,17,30400.0,0.0,3.0
+2018-11-24,Sheffield Wednesday,Derby County,"Owlerton, Sheffield",15:00 GMT,18,25204.0,1.0,2.0
+2018-11-28,Stoke City,Derby County,Stoke-on-Trent,20:00 GMT,19,36525147.0,2.0,1.0
+2018-12-01,Derby County,Swansea City,Derby,15:00 GMT,20,26167.0,2.0,1.0
+2018-12-08,Wigan Athletic,Derby County,Wigan,15:00 GMT,21,10768.0,0.0,1.0
+2018-12-17,Derby County,Nottingham Forest,Derby,19:45 GMT,22,31160.0,0.0,0.0
+2018-12-22,Derby County,Bristol City,Derby,15:00 GMT,23,26719.0,1.0,1.0
+2018-12-26,Sheffield United,Derby County,Sheffield,15:00 GMT,24,28974.0,3.0,1.0
+2018-12-29,Norwich City,Derby County,Norwich,15:00 GMT,25,26866.0,3.0,4.0
+2019-01-01,Derby County,Middlesbrough,Derby,15:00 GMT,26,28123.0,1.0,1.0
+2019-01-11,Leeds United,Derby County,Leeds,19:45 GMT,27,34668.0,2.0,0.0
+2019-01-19,Derby County,Reading,Derby,15:00 GMT,28,26404.0,2.0,1.0
+2019-02-01,Preston North End,Derby County,Preston,19:45 GMT,29,12124.0,0.0,0.0
+2019-02-09,Derby County,Hull City,Derby,15:00 GMT,30,28211.0,2.0,0.0
+2019-02-13,Ipswich Town,Derby County,Ipswich,19:45 GMT,31,18604.0,1.0,1.0
+2019-02-20,Derby County,Millwall,Derby,19:45 GMT,32,24907.0,0.0,1.0
+2019-02-25,Nottingham Forest,Derby County,West Bridgford,19:45 GMT,33,29421.0,1.0,0.0
+2019-03-02,Aston Villa,Derby County,Aston,15:00 GMT,34,37273.0,4.0,0.0
+2019-03-05,Derby County,Wigan Athletic,Derby,19:45 GMT,35,23655.0,2.0,1.0
+2019-03-09,Derby County,Sheffield Wednesday,Derby,15:00 GMT,36,28574.0,1.0,1.0
+2019-03-13,Derby County,Stoke City,Derby,19:45 GMT,37,25685.0,0.0,0.0
+2019-03-30,Derby County,Rotherham United,Derby,15:00 GMT,38,27003.0,6.0,1.0
+2019-04-06,Brentford,Derby County,Brentford,15:00 BST,39,12225.0,3.0,3.0
+2019-04-09,Blackburn Rovers,Derby County,Blackburn,19:45 BST,40,12590.0,2.0,0.0
+2019-04-13,Derby County,Bolton Wanderers,Derby,15:00 BST,41,26602.0,4.0,0.0
+2019-04-19,Birmingham City,Derby County,Birmingham,15:00 BST,42,23902.0,2.0,2.0
+2019-04-22,Derby County,Queens Park Rangers,Derby,15:00 BST,43,25986.0,2.0,0.0
+2019-04-27,Bristol City,Derby County,Bristol,15:00 BST,44,25556.0,0.0,2.0
+2019-05-01,Swansea City,Derby County,Swansea,19:45 BST,45,18434.0,1.0,1.0
+2019-05-05,Derby County,West Bromwich Albion,Derby,12:30 BST,46,32055.0,3.0,1.0
+2019-05-11,Derby County,Leeds United,Derby,17:15 BST,Semi-final first leg,31723.0,0.0,1.0
+2019-05-15,Leeds United,Derby County,Leeds,19:45 BST,Semi-final second leg,36326.0,2.0,4.0
+2019-05-27,Aston Villa,Derby County,"Wembley Stadium, London",15:00 BST,Final,85826.0,2.0,1.0
+2018-08-14,Oldham Athletic,Derby County,Oldham,19:45 BST,First round,3376.0,0.0,2.0
+2018-08-28,Hull City,Derby County,Kingston upon Hull,19:45 BST,Second round,4666.0,0.0,4.0
+2018-09-25,Manchester United,Derby County,"Old Trafford, Manchester",20:00 BST,Third round,55227.0,2.0,2.0
+2018-10-31,Chelsea,Derby County,Fulham,19:45 GMT,Fourth round,39564.0,3.0,2.0
+2019-01-05,Derby County,Southampton,Derby,15:00 GMT,Third round,17095.0,2.0,2.0
+2019-01-16,Southampton,Derby County,Southampton,19:45 GMT,Third round replay,14651.0,2.0,2.0
+2019-01-26,Accrington Stanley,Derby County,Accrington,12:30 GMT,Fourth round,5397.0,0.0,1.0
+2019-02-16,Brighton & Hove Albion,Derby County,Falmer,12:30 GMT,Fifth round,24562.0,2.0,1.0
+2017-08-04,Sunderland,Derby County,Sunderland,19:45 BST,1,29578.0,1.0,1.0
+2017-08-12,Derby County,Wolverhampton Wanderers,Derby,15:00 BST,2,27757.0,0.0,2.0
+2017-08-15,Derby County,Preston North End,Derby,19:45 BST,3,24371.0,1.0,0.0
+2017-08-19,Bolton Wanderers,Derby County,Horwich,15:00 BST,4,15175.0,1.0,2.0
+2017-08-26,Sheffield United,Derby County,Sheffield,15:00 BST,5,26202.0,3.0,1.0
+2017-09-08,Derby County,Hull City,Derby,19:45 BST,6,25107.0,5.0,0.0
+2017-09-16,Bristol City,Derby County,Ashton Gate,15:00 BST,7,19473.0,4.0,1.0
+2017-09-23,Derby County,Birmingham City,Derby,15:00 BST,8,27392.0,1.0,1.0
+2017-09-26,Brentford,Derby County,Brentford,19:45 BST,9,8679.0,1.0,1.0
+2017-09-30,Cardiff City,Derby County,Cardiff,15:00 BST,10,18840.0,0.0,0.0
+2017-10-15,Derby County,Nottingham Forest,Derby,13:15 BST,11,31196.0,2.0,0.0
+2017-10-21,Derby County,Sheffield Wednesday,Derby,15:00 BST,12,27426.0,2.0,0.0
+2017-10-28,Norwich City,Derby County,Norwich,15:00 BST,13,26048.0,1.0,2.0
+2017-10-31,Leeds United,Derby County,Leeds,19:45 GMT,14,28565.0,1.0,2.0
+2017-11-04,Derby County,Reading,Derby,15:00 GMT (UTC),15,25938.0,2.0,4.0
+2017-11-18,Fulham,Derby County,Fulham,15:00 GMT,16,18192.0,1.0,1.0
+2017-11-21,Derby County,Queens Park Rangers,Derby,19:45 GMT,17,23296.0,2.0,0.0
+2017-11-25,Middlesbrough,Derby County,Middlesbrough,15:00 GMT,18,24607.0,0.0,3.0
+2017-11-28,Derby County,Ipswich Town,Derby,19:45 GMT,19,24475.0,0.0,1.0
+2017-12-02,Derby County,Burton Albion,Derby,15:00 GMT,20,26761.0,1.0,0.0
+2017-12-09,Barnsley,Derby County,Barnsley,15:00 GMT,21,13973.0,0.0,3.0
+2017-12-16,Derby County,Aston Villa,Derby,15:00 GMT,22,28118.0,2.0,0.0
+2017-12-23,Derby County,Millwall,Derby,15:00 GMT,23,25813.0,3.0,0.0
+2017-12-26,Hull City,Derby County,Kingston-upon-Hull,15:00 GMT,24,18026.0,0.0,0.0
+2017-12-30,Ipswich Town,Derby County,Ipswich,15:00 GMT,25,17267.0,1.0,2.0
+2018-01-01,Derby County,Sheffield United,Derby,15:00 GMT,26,30003.0,1.0,1.0
+2018-01-13,Birmingham City,Derby County,Bordesley,15:00 GMT,27,22121.0,0.0,3.0
+2018-01-19,Derby County,Bristol City,Derby,19:45 GMT,28,26525.0,0.0,0.0
+2018-01-30,Millwall,Derby County,Bermondsey,19:45 GMT,29,10931.0,0.0,0.0
+2018-02-03,Derby County,Brentford,Derby,15:00 GMT,30,25938.0,3.0,0.0
+2018-02-10,Derby County,Norwich City,Derby,15:00 GMT,31,27171.0,1.0,1.0
+2018-02-13,Sheffield Wednesday,Derby County,"Owlerton, Sheffield",19:45 GMT,32,24180.0,2.0,0.0
+2018-02-21,Derby County,Leeds United,Derby,19:45 GMT,33,27934.0,2.0,2.0
+2018-02-24,Reading,Derby County,Reading,15:00 GMT (UTC),34,17647.0,3.0,3.0
+2018-03-03,Derby County,Fulham,Derby,15:00 GMT,35,27138.0,1.0,2.0
+2018-03-06,Queens Park Rangers,Derby County,"Shepherd's Bush, London",19:45 GMT,36,11488.0,1.0,1.0
+2018-03-11,Nottingham Forest,Derby County,Nottingham,14:30 GMT,37,29106.0,0.0,0.0
+2018-03-30,Derby County,Sunderland,Derby,12:00 BST,38,27890.0,1.0,4.0
+2018-04-02,Preston North End,Derby County,Preston,19:45 BST,39,13520.0,0.0,1.0
+2018-04-07,Derby County,Bolton Wanderers,Derby,15:00 BST,40,25723.0,3.0,0.0
+2018-04-11,Wolverhampton Wanderers,Derby County,Wolverhampton,19:45 BST,41,28503.0,2.0,0.0
+2018-04-14,Burton Albion,Derby County,Burton upon Trent,15:00 BST,42,5563.0,3.0,1.0
+2018-04-21,Derby County,Middlesbrough,Derby,15:00 BST,43,28096.0,1.0,2.0
+2018-04-24,Derby County,Cardiff City,Derby,19:45 BST,44,30294.0,3.0,1.0
+2018-04-28,Aston Villa,Derby County,Birmingham,15:00 BST,45,41745.0,1.0,1.0
+2018-05-06,Derby County,Barnsley,Derby,12:30 BST,46,30682.0,4.0,1.0
+2018-05-11,Derby County,Fulham,Derby,19:45 BST,Semi final (1st leg),27163.0,1.0,0.0
+2018-05-14,Fulham,Derby County,Fulham,19:45 BST,Semi final (2nd leg),23529.0,2.0,0.0
+2018-01-05,Manchester United,Derby County,Manchester,20:00 GMT,Third round,73899.0,2.0,0.0
+2017-08-22,Grimsby Town,Derby County,Cleethorpes,19:45 BST,First round,3033.0,0.0,1.0
+2017-09-12,Barnsley,Derby County,Barnsley,19:45 BST,Second round,,3.0,2.0
+2016-09-27,Cardiff City,Derby County,Cardiff,19:45 BST,10,14131.0,0.0,2.0
+2016-10-01,Reading,Derby County,Reading,15:00 BST,11,17002.0,1.0,1.0
+2016-10-15,Derby County,Leeds United,Derby,15:00 BST,12,31170.0,1.0,0.0
+2016-10-18,Derby County,Brentford,Derby,19:45 BST,13,26707.0,0.0,0.0
+2016-10-22,Huddersfield Town,Derby County,Huddersfield,15:00 BST,14,19749.0,1.0,0.0
+2016-10-29,Derby County,Sheffield Wednesday,Derby,15:00 BST,15,30064.0,2.0,0.0
+2016-11-05,Wolverhampton Wanderers,Derby County,Wolverhampton,12:30 GMT,16,19858.0,2.0,3.0
+2016-11-19,Derby County,Rotherham United,Derby,15:00 GMT,17,28191.0,3.0,0.0
+2016-11-26,Derby County,Norwich City,Derby,15:00 GMT,18,29311.0,1.0,0.0
+2016-12-03,Wigan Athletic,Derby County,Wigan,15:00 GMT,19,12526.0,0.0,1.0
+2016-12-11,Derby County,Nottingham Forest,Derby,12:00 GMT,20,32600.0,3.0,0.0
+2016-12-14,Queens Park Rangers,Derby County,"Shepherd's Bush, London",19:45 GMT,21,12371.0,0.0,1.0
+2016-12-17,Fulham,Derby County,"Fulham, London",15:00 GMT,22,18748.0,2.0,2.0
+2016-12-27,Derby County,Birmingham City,Derby,15:00 GMT,23,32616.0,1.0,0.0
+2016-12-31,Derby County,Wigan Athletic,Derby,15:00 GMT,24,28289.0,0.0,0.0
+2017-01-02,Norwich City,Derby County,Norwich,15:00 GMT,25,26422.0,3.0,0.0
+2017-01-13,Leeds United,Derby County,Leeds,19:45 GMT,26,25546.0,1.0,0.0
+2017-01-21,Derby County,Reading,Derby,15:00 GMT,27,28393.0,3.0,2.0
+2017-01-31,Ipswich Town,Derby County,Ipswich,19:45 GMT,28,14719.0,0.0,3.0
+2017-02-04,Newcastle United,Derby County,Newcastle,15:00 GMT,29,52231.0,1.0,0.0
+2017-02-11,Derby County,Bristol City,Derby,15:00 GMT,30,28043.0,3.0,3.0
+2017-02-14,Derby County,Cardiff City,Derby,19:45 GMT,31,26541.0,3.0,4.0
+2017-02-21,Derby County,Burton Albion,Derby,19:45 GMT,32,31081.0,0.0,0.0
+2017-02-25,Aston Villa,Derby County,Birmingham,15:00 GMT,33,30935.0,1.0,0.0
+2017-02-28,Blackburn Rovers,Derby County,Blackburn,19:45 GMT,34,10536.0,1.0,0.0
+2017-03-04,Derby County,Barnsley,Derby,15:00 GMT,35,30280.0,2.0,1.0
+2017-03-07,Derby County,Preston North End,Derby,19:45 GMT,36,26301.0,1.0,1.0
+2017-03-10,Brighton & Hove Albion,Derby County,Brighton,19:45 GMT,37,,3.0,0.0
+2017-03-18,Nottingham Forest,Derby County,West Bridgford,13:00 GMT,38,26665.0,2.0,2.0
+2017-03-31,Derby County,Queens Park Rangers,Derby,19:45 BST,39,27690.0,1.0,0.0
+2017-04-04,Derby County,Fulham,Derby,19:45 GMT,40,27221.0,4.0,2.0
+2017-04-08,Birmingham City,Derby County,Birmingham,15:00 BST,41,19381.0,1.0,2.0
+2017-04-14,Brentford,Derby County,Brentford,15:00 BST,42,,4.0,0.0
+2017-04-17,Derby County,Huddersfield Town,Derby,18:00 BST,43,29031.0,1.0,1.0
+2017-04-22,Sheffield Wednesday,Derby County,Sheffield,15:00 BST,44,28889.0,2.0,1.0
+2017-04-29,Derby County,Wolverhampton Wanderers,Derby,15:00 BST,45,31051.0,3.0,1.0
+2017-05-07,Rotherham United,Derby County,Rotherham,12:00 BST,46,10763.0,1.0,1.0
+2017-01-07,West Bromwich Albion,Derby County,West Bromwich,15:00 GMT,Third round,25288.0,1.0,2.0
+2017-01-27,Derby County,Leicester City,Derby,19:55 GMT,Fourth round,25079.0,2.0,2.0
+2017-02-08,Leicester City,Derby County,Leicester,19:45 GMT,Fourth round replay,31648.0,3.0,1.0
+2015-08-08,Bolton Wanderers,Derby County,Horwich,15:00 BST,1,17162.0,0.0,0.0
+2015-08-15,Derby County,Charlton Athletic,Derby,15:00 BST,2,29045.0,1.0,1.0
+2015-08-18,Derby County,Middlesbrough,Derby,19:45 BST,3,30855.0,1.0,1.0
+2015-08-21,Birmingham City,Derby County,Birmingham,19:45 BST,4,18134.0,1.0,1.0
+2015-08-29,Derby County,Leeds United,Derby,12:05 BST,5,29386.0,1.0,2.0
+2015-09-12,Preston North End,Derby County,Preston,15:00 BST,6,14552.0,1.0,2.0
+2015-09-15,Reading,Derby County,Reading,20:00 BST,7,15697.0,0.0,1.0
+2015-09-21,Derby County,Burnley,Derby,19:45 BST,8,26834.0,0.0,0.0
+2015-09-26,Milton Keynes Dons,Derby County,Denbigh,12:30 BST,9,13554.0,1.0,3.0
+2015-10-03,Derby County,Brentford,Derby,15:00 BST,10,29467.0,2.0,0.0
+2015-10-18,Derby County,Wolverhampton Wanderers,Derby,13:15 BST,11,29063.0,4.0,2.0
+2015-10-21,Blackburn Rovers,Derby County,Blackburn,19:45 BST,12,12968.0,0.0,0.0
+2015-10-24,Huddersfield Town,Derby County,Huddersfield,15:00 BST,13,15371.0,1.0,2.0
+2015-10-31,Derby County,Rotherham United,Derby,15:00 GMT,14,30172.0,3.0,0.0
+2015-11-03,Derby County,Queens Park Rangers,Derby,19:45 GMT,15,28502.0,1.0,0.0
+2015-11-06,Nottingham Forest,Derby County,Nottingham,19:30 GMT,16,25114.0,1.0,0.0
+2015-11-21,Derby County,Cardiff City,Derby,15:00 GMT,17,29526.0,2.0,0.0
+2015-11-27,Hull City,Derby County,Kingston upon Hull,19:45 GMT,18,17410.0,0.0,2.0
+2015-12-06,Sheffield Wednesday,Derby County,Sheffield,13:15 GMT,19,19252.0,0.0,0.0
+2015-12-12,Derby County,Brighton & Hove Albion,Derby,15:00 GMT,20,30537.0,2.0,2.0
+2015-12-15,Derby County,Bristol City,Derby,19:45 GMT,21,27781.0,4.0,0.0
+2015-12-19,Ipswich Town,Derby County,Ipswich,15:00 GMT,22,20161.0,0.0,1.0
+2015-12-26,Derby County,Fulham,Derby,15:00 GMT,23,32134.0,2.0,0.0
+2015-12-29,Leeds United,Derby County,Leeds,19:45 GMT,24,23027.0,2.0,2.0
+2016-01-02,Middlesbrough,Derby County,Middlesbrough,15:00 GMT,25,32870.0,2.0,0.0
+2016-01-12,Derby County,Reading,Derby,19:45 GMT,26,28175.0,1.0,1.0
+2016-01-16,Derby County,Birmingham City,Derby,15:00 GMT,27,32895.0,0.0,3.0
+2016-01-25,Burnley,Derby County,Burnley,19:45 GMT,28,15214.0,4.0,1.0
+2016-02-02,Derby County,Preston North End,Derby,19:45 GMT,29,27252.0,0.0,0.0
+2016-02-06,Fulham,Derby County,Fulham,15:00 GMT,30,18472.0,1.0,1.0
+2016-02-13,Derby County,Milton Keynes Dons,Derby,15:00 GMT,31,30075.0,0.0,1.0
+2016-02-20,Brentford,Derby County,Brentford,15:00 GMT,32,10627.0,1.0,3.0
+2016-02-24,Derby County,Blackburn Rovers,Derby,19:45 GMT,33,27411.0,1.0,0.0
+2016-02-27,Wolverhampton Wanderers,Derby County,Wolverhampton,12:30 GMT,34,19398.0,2.0,1.0
+2016-03-05,Derby County,Huddersfield Town,Derby,15:00 GMT,35,29698.0,2.0,0.0
+2016-03-08,Queens Park Rangers,Derby County,Shepherd's Bush,19:45 GMT,36,14049.0,2.0,0.0
+2016-03-12,Rotherham United,Derby County,Rotherham,15:00 GMT,37,11163.0,3.0,3.0
+2016-03-19,Derby County,Nottingham Forest,Derby,12:30 GMT,38,33010.0,1.0,0.0
+2016-04-02,Cardiff City,Derby County,Cardiff,15:00 BST,39,28680.0,2.0,1.0
+2016-04-05,Derby County,Hull City,Derby,19:45 BST,40,29078.0,4.0,0.0
+2016-04-09,Derby County,Bolton Wanderers,Derby,19:45 BST,41,29674.0,4.0,1.0
+2016-04-16,Charlton Athletic,Derby County,Charlton,15:00 BST,42,15857.0,0.0,1.0
+2016-04-19,Bristol City,Derby County,Bristol,19:45 GMT,43,15341.0,2.0,3.0
+2016-04-23,Derby County,Sheffield Wednesday,Derby,12:30 BST,44,31825.0,1.0,1.0
+2016-05-02,Brighton & Hove Albion,Derby County,Brighton,14:30 BST,45,30292.0,1.0,1.0
+2016-05-07,Derby County,Ipswich Town,Derby,12:30 BST,46,29854.0,0.0,1.0
+2016-01-09,Hartlepool United,Derby County,Hartlepool,15:00,Third round,4860.0,1.0,2.0
+2016-01-29,Derby County,Manchester United,Derby,19:55,Fourth round,31134.0,1.0,3.0
+2015-08-12,Portsmouth,Derby County,Milton,19:45 BST,First round,11573.0,2.0,1.0
+2016-05-14,Derby County,Hull City,Derby,12:30 BST,Semi final (1st leg),29969.0,0.0,3.0
+2016-05-17,Hull City,Derby County,Kingston upon Hull,19:45 BST,Semi final (2nd leg),20470.0,0.0,2.0
+2014-08-09,Derby County,Rotherham United,iPro Stadium,15:00 GMT,1,30105.0,1.0,0.0
+2014-08-16,Sheffield Wednesday,Derby County,Hillsborough,15:00 GMT,2,25186.0,0.0,0.0
+2014-08-19,Charlton Athletic,Derby County,The Valley,19:45 GMT,3,15317.0,3.0,2.0
+2014-08-23,Derby County,Fulham,iPro Stadium,15:00 GMT,4,26577.0,5.0,1.0
+2014-08-30,Derby County,Ipswich Town,iPro Stadium,15:00 GMT,5,26673.0,1.0,1.0
+2014-09-13,Nottingham Forest,Derby County,City Ground,13:15 GMT,6,30227.0,1.0,1.0
+2014-09-17,Blackburn Rovers,Derby County,Ewood Park,19:45 GMT,7,13566.0,2.0,3.0
+2014-09-20,Derby County,Cardiff City,iPro Stadium,15:00 GMT,8,27251.0,2.0,2.0
+2014-09-27,Bolton Wanderers,Derby County,Macron Stadium,15:00 GMT,9,15006.0,0.0,2.0
+2014-09-30,Derby County,Bournemouth,iPro Stadium,19:45 GMT,10,26725.0,2.0,0.0
+2014-10-04,Derby County,Millwall,iPro Stadium,15:00 GMT,11,27749.0,0.0,0.0
+2014-10-18,Reading,Derby County,Madejski Stadium,15:00 GMT,12,18141.0,0.0,3.0
+2014-10-21,Blackpool,Derby County,Bloomfield Road,19:45 GMT,13,11036.0,0.0,1.0
+2014-10-25,Derby County,Wigan Athletic,iPro Stadium,15:00 GMT,14,28824.0,1.0,2.0
+2014-11-01,Brentford,Derby County,Griffin Park,15:00 GMT,15,10608.0,2.0,1.0
+2014-11-04,Derby County,Huddersfield Town,iPro Stadium,19:45 GMT,16,27153.0,3.0,2.0
+2014-11-08,Derby County,Wolverhampton Wanderers,iPro Stadium,12:15 GMT,17,30398.0,5.0,0.0
+2014-11-22,Watford,Derby County,Vicarage Road,15:00 GMT,18,17421.0,1.0,2.0
+2014-11-29,Leeds United,Derby County,Elland Road,15:00 GMT,19,26028.0,2.0,0.0
+2014-12-06,Derby County,Brighton & Hove Albion,iPro Stadium,15:00 GMT,20,28637.0,3.0,0.0
+2014-12-13,Middlesbrough,Derby County,Riverside Stadium,12:15 GMT,21,17434.0,2.0,0.0
+2014-12-20,Derby County,Norwich City,iPro Stadium,12:15 GMT,22,27974.0,2.0,2.0
+2014-12-26,Birmingham City,Derby County,St. Andrews,15:00 GMT,23,23851.0,0.0,4.0
+2014-12-30,Derby County,Leeds United,iPro Stadium,19:45 GMT,24,31690.0,2.0,0.0
+2015-01-10,Ipswich Town,Derby County,Portman Road,12:15 GMT,25,20861.0,0.0,1.0
+2015-01-17,Derby County,Nottingham Forest,iPro Stadium,12:15 GMT,26,32705.0,1.0,2.0
+2015-01-27,Derby County,Blackburn Rovers,iPro Stadium,19:45 GMT,27,26373.0,2.0,0.0
+2015-01-31,Cardiff City,Derby County,Cardiff City Stadium,15:00 GMT,28,22227.0,0.0,2.0
+2015-02-07,Derby County,Bolton Wanderers,iPro Stadium,15:00 GMT,29,30310.0,4.0,1.0
+2015-02-10,Bournemouth,Derby County,Goldsands Stadium,19:45 GMT,30,11031.0,2.0,2.0
+2015-02-17,Rotherham United,Derby County,New York Stadium,19:45 GMT,31,11035.0,3.0,3.0
+2015-02-21,Derby County,Sheffield Wednesday,iPro Stadium,15:00 GMT,32,31628.0,3.0,2.0
+2015-02-24,Derby County,Charlton Athletic,iPro Stadium,19:45 GMT,33,28277.0,2.0,0.0
+2015-02-28,Fulham,Derby County,Craven Cottage,15:00 GMT,34,20242.0,2.0,0.0
+2015-03-03,Brighton & Hove Albion,Derby County,Amex Stadium,19:45 GMT,35,23665.0,2.0,0.0
+2015-03-07,Derby County,Birmingham City,iPro Stadium,15:00 GMT,36,31522.0,2.0,2.0
+2015-03-14,Norwich City,Derby County,Carrow Road,15:00 GMT,37,26766.0,1.0,1.0
+2015-03-17,Derby County,Middlesbrough,iPro Stadium,19:45 GMT,38,31939.0,0.0,1.0
+2015-03-20,Wolverhampton Wanderers,Derby County,Molineux,19:45 GMT,39,27480.0,2.0,0.0
+2015-04-03,Derby County,Watford,iPro Stadium,19:45 GMT,40,31748.0,2.0,2.0
+2015-04-06,Wigan Athletic,Derby County,DW Stadium,15:00 GMT,41,14697.0,0.0,2.0
+2015-04-11,Derby County,Brentford,iPro Stadium,12:45 GMT,42,30043.0,1.0,1.0
+2015-04-14,Derby County,Blackpool,iPro Stadium,19:45 GMT,43,27227.0,4.0,0.0
+2015-04-18,Huddersfield Town,Derby County,John Smith's Stadium,15:00 GMT,44,15889.0,4.0,4.0
+2015-04-25,Millwall,Derby County,The Den,15:00 GMT,45,12571.0,3.0,3.0
+2015-05-02,Derby County,Reading,iPro Stadium,12:15 GMT,46,30806.0,0.0,3.0
+2014-08-11,Carlisle United,Derby County,Brunton Park,19:45 GMT,First round,3481.0,0.0,2.0
+2014-08-26,Derby County,Charlton Athletic,iPro Stadium,19:45 GMT,Second round,16367.0,1.0,0.0
+2014-09-23,Derby County,Reading,iPro Stadium,19:45 GMT,Third round,18409.0,2.0,0.0
+2014-10-28,Fulham,Derby County,Craven Cottage,19:45 GMT,Fourth round,15156.0,2.0,5.0
+2014-12-16,Derby County,Chelsea,iPro Stadium,19:45 GMT,Fifth round,30639.0,1.0,3.0
+2015-01-03,Derby County,Southport,iPro Stadium,15:00 GMT,Third Round Proper,20201.0,1.0,0.0
+2015-01-24,Derby County,Chesterfield,iPro Stadium,15:00 GMT,Fourth Round Proper,28392.0,2.0,0.0
+2015-02-14,Derby County,Reading,iPro Stadium,15:00 GMT,Fifth Round Proper,21337.0,1.0,2.0
