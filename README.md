@@ -5,5 +5,7 @@ Analysis to determine the factors that effect the attendance at a football game.
 ### Files:
 
 DC_Wikipedia.ipynb: Uses library to scrape the data from Wikipedia, as well as cleaning it. 
+
 DC_2014-15_to_2015-16.csv: CSV file of the dataframe produced by DC_Wikipedia
+
 DC_further_features.ipynb: Uses CSV to draw out further relevant features, and performs and visualises analysis. 
