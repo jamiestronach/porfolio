@@ -1,6 +1,6 @@
 # Football Attendances project.
 
-Analysis to determine the factors that effect the attendance at a football game. This case study looks at Derby County specifically, and examines some of the reasons behind the trends in attendance figures. This is by no means an exhaustive list of all the relevant factors contributing to attendance fluctuation at this stage. 
+Analysis to determine the factors that affect the attendance at a football game. This case study looks at Derby County specifically, and examines some of the reasons behind the trends in attendance figures. This is by no means an exhaustive list of all the relevant factors contributing to attendance fluctuation at this stage. 
 
 ### Files:
 
